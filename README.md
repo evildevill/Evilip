@@ -27,10 +27,10 @@
 
 ***
 
-# About Ghost Framework
+# About Evilip Framework
 
 ```
-Ghost Framework is an Android post-exploitation framework that exploits the
+Evilip Framework is an Android post-exploitation framework that exploits the
 Android Debug Bridge to remotely access an Android device. Ghost Framework
 gives you the power and convenience of remote Android device administration.
 ```
@@ -39,17 +39,17 @@ gives you the power and convenience of remote Android device administration.
 
 # Getting started
 
-## Ghost installation
+## Evilip installation
 
-> cd ghost
+> cd Evilip
 
 > chmod +x install.sh
 
 > ./install.sh
 
-## Ghost uninstallation
+## Evilip uninstallation
 
-> cd ghost
+> cd Evilip
 
 > chmod +x uninstall.sh
 
@@ -57,23 +57,23 @@ gives you the power and convenience of remote Android device administration.
 
 ***
 
-# Ghost Framework execution
+# Evilip Framework execution
 
 ```
-To run Ghost Framework you should 
+To run Evilip Framework you should 
 execute the following command.
 ```
 
-> ghost
+> Evilip
 
 ***
 
-# Why Ghost Framework
+# Why Evilip Framework
 
 * Simple and clear UX/UI.
 
 ```
-Ghost Framework has a simple and clear UX/UI. 
+Evilip Framework has a simple and clear UX/UI. 
 It is easy to understand and it will be easier 
 for you to master the Ghost Framework.
 ```
@@ -81,14 +81,14 @@ for you to master the Ghost Framework.
 * Device passcode removal.
 
 ```
-Ghost Framework can be used to remotely remove the 
+Evilip Framework can be used to remotely remove the 
 passcode of an Android device if it has been forgotten.
 ```
 
 * Device shell access.
 
 ```
-Ghost Framework can be used to access the remote Android 
+Evilip Framework can be used to access the remote Android 
 device shell without using OpenSSH or other protocols.
 ``` 
 
@@ -96,23 +96,23 @@ device shell without using OpenSSH or other protocols.
 
 ***
 
-# Ghost Framework disclaimer
+# Evilip Framework disclaimer
 
 ```
-Usage of the Ghost Framework for attacking targets without prior mutual consent is illegal.
+Usage of the Evilip Framework for attacking targets without prior mutual consent is illegal.
 It is the end user's responsibility to obey all applicable local, state, federal, and international laws.
 Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 ```
   
 ***
 
-# Ghost Framework license
+# Evilip Framework license
 
 ```
     ---------------------------------------------------
-                      Ghost Framework                  
+                      Evilip Framework                  
     ---------------------------------------------------
-        Copyright (C) <2019-2020>  <Entynetproject>
+        Copyright (C) <2020-2021>  <Evil Devil>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
