@@ -3,7 +3,7 @@
 #            ---------------------------------------------------
 #                              Evilip Framework                                                  
 #            ---------------------------------------------------
-#                Copyright (C) <2020-2021>  <EvilDevilWasi>
+#                Copyright (C) <2020-2021>  <Waseem Akram>
 #
 #        This program is free software: you can redistribute it and/or modify
 #        it under the terms of the GNU General Public License as published by
@@ -70,10 +70,20 @@ def main():
             os.system("chmod +x etc/update.sh && etc/update.sh")
         elif ui[0] == "help":
             print("")
+            print("-----------------------------------------------------------")
             print("Core Commands")
-            print("=============")
-            os.system("cat data/cmds/core_cmds.txt")
+            print("==============")
             print("")
+            print("         command              Description")
+            print("         =======              ===========")
+            print("         clear                clear Terminal Window")
+            print("         disconnect           disconnect from target device")
+            print("         connect              connect to target device")
+            print("         exit                 Exit From Evilip Framework")
+            print("         help                 show available commands")
+            print("         update               Update Evilip Framework")
+            print("")
+            print("-----------------------------------------------------------")
         elif ui[0] == "connect":
             if len(ui) < 2:
                 print("Usage: connect <device>")
