@@ -25,7 +25,7 @@
 
 ![ghost](https://user-images.githubusercontent.com/54115104/83800104-922afd80-a6af-11ea-94c8-224550d0db1e.png)
 
-***
+---
 
 # About Evilip Framework
 
@@ -35,66 +35,64 @@ Android Debug Bridge to remotely access an Android device. Ghost Framework
 gives you the power and convenience of remote Android device administration.
 ```
 
-***
+---
 
 # Getting started
 
 ## Evilip installation
 
-> cd Evilip
-
-> chmod +x install.sh
-
-> ./install.sh
+```
+ cd Evilip
+ chmod +x install.sh
+ ./install.sh
+```
 
 ## Evilip uninstallation
 
-> cd Evilip
+```
+ cd Evilip
+ chmod +x uninstall.sh
+ ./uninstall.sh
+```
 
-> chmod +x uninstall.sh
-
-> ./uninstall.sh
-
-***
+---
 
 # Evilip Framework execution
 
-```
-To run Evilip Framework you should 
+To run Evilip Framework you should
 execute the following command.
+
+```
+Evilip
 ```
 
-> Evilip
-
-***
+---
 
 # Why Evilip Framework
 
-* Simple and clear UX/UI.
+- Simple and clear UX/UI.
 
-```
-Evilip Framework has a simple and clear UX/UI. 
-It is easy to understand and it will be easier 
+Evilip Framework has a simple and clear UX/UI.
+It is easy to understand and it will be easier
 for you to master the Ghost Framework.
-```
 
-* Device passcode removal.
+- Device passcode removal.
 
 ```
-Evilip Framework can be used to remotely remove the 
+Evilip Framework can be used to remotely remove the
 passcode of an Android device if it has been forgotten.
 ```
 
-* Device shell access.
+- Device shell access.
 
 ```
-Evilip Framework can be used to access the remote Android 
+Evilip Framework can be used to access the remote Android
 device shell without using OpenSSH or other protocols.
-``` 
+```
 
 ![shell](https://user-images.githubusercontent.com/54115104/83800108-92c39400-a6af-11ea-8963-5714aaf40756.png)
 
-***
+---
 
 # Evilip Framework disclaimer
 
@@ -103,14 +101,14 @@ Usage of the Evilip Framework for attacking targets without prior mutual consent
 It is the end user's responsibility to obey all applicable local, state, federal, and international laws.
 Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 ```
-  
-***
+
+---
 
 # Evilip Framework license
 
 ```
     ---------------------------------------------------
-                      Evilip Framework                  
+                      Evilip Framework
     ---------------------------------------------------
         Copyright (C) <2020-2021>  <Evil Devil>
 
